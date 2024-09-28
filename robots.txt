@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loqni.github.io/Zot/sitemap.Zot.gz
